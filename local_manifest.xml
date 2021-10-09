@@ -2,7 +2,7 @@
 <manifest>
 
 <!-- Device Trees -->
- <project name="MhmmdAmier/android_device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="bananadroid" />
+ <project name="MhmmdAmier/android_device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="lineage-18.1" />
  <project name="MhmmdAmier/android_device_xiaomi_msm8937-common" path="device/xiaomi/msm8937-common" remote="github" revision="lineage-18.1" />
 
 <!-- Vendor Trees -->
