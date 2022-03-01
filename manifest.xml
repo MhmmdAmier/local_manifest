@@ -2,7 +2,7 @@
 <manifest>
 
 <!-- Device Trees -->
- <project name="NusantaraROM-Devices/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="12" />
+ <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="12" />
  <project name="mgs28-mh/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="12" />
 
 <!-- Vendor Trees -->
