@@ -16,4 +16,8 @@
  <project name="Gabuters-Dev/vendor_xiaomi_dirac" path="vendor/xiaomi/part" remote="github" revision="12" />
  <project name="Gabuters-Dev/gabuters-clang" path="prebuilts/clang/host/linux-x86/gabuters-clang" remote="github" revision="master" />
 
+<!-- Patches -->
+ <remove-project name="LineageOS/android_hardware_qcom_wlan" />
+ <project name="Gabuter-OS/hardware_qcom-caf_wlan" path="hardware/qcom-caf/wlan"  remote="github" revision="12" />
+
 </manifest>
