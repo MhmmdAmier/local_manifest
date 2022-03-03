@@ -22,4 +22,5 @@
  <remove-project name="LineageOS/android_system_bt" />
  <project name="Gabuter-OS/system_bt" path="system/bt"  remote="github" revision="12" />
  <project name="Gabuter-OS/hardware_xiaomi" path="hardware/xiaomi"  remote="github" revision="12" />
+
 </manifest>
