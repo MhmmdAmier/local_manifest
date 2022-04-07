@@ -19,5 +19,5 @@
 <!-- Patches -->
  <remove-project name="platform/frameworks/opt/telephony" />
  <project name="LineageOS/android_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="lineage-19.1" />
-
+ <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings"  remote="github" revision="lineage-19.1" />
 </manifest>
