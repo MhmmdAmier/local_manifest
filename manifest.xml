@@ -18,6 +18,6 @@
 
 <!-- Patches -->
  <remove-project name="frameworks_native" />
- <project name="mgs28-mh/frameworks_native" path="frameworks/native" remote="github" revision="12.1" />
+ <project name="MhmmdAmier/frameworks_native" path="frameworks/native" remote="github" revision="12.2" />
 
 </manifest>
