@@ -2,12 +2,12 @@
 <manifest>
 
 <!-- Device Trees -->
- <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="12" />
- <project name="MhmmdAmier/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="12" />
+ <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="xd" />
+ <project name="MhmmdAmier/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="12.1" />
 
 <!-- Vendor Trees -->
  <project name="mgs28-mh/vendor_xiaomi_ugg" path="vendor/xiaomi/ugg" remote="github" revision="12" />
- <project name="mgs28-mh/vendor_xiaomi_ulysse-common" path="vendor/xiaomi/ulysse-common" remote="github" revision="12" />
+ <project name="mgs28-mh/vendor_xiaomi_ulysse-common" path="vendor/xiaomi/ulysse-common" remote="github" revision="12.1" />
   
 <!-- Kernels -->
  <project name="mgs28-mh/kernel_xiaomi_ulysse-4.9" path="kernel/xiaomi/ulysse" remote="github" revision="a12/temp" />
@@ -15,9 +15,5 @@
 <!-- More Stuff -->
  <project name="Gabuters-Dev/vendor_xiaomi_dirac" path="vendor/xiaomi/part" remote="github" revision="12" />
  <project name="Gabuters-Dev/gabuters-clang" path="prebuilts/clang/host/linux-x86/gabuters-clang" remote="github" revision="master" />
-
-<!-- Patches -->
- <remove-project name="frameworks_native" />
- <project name="MhmmdAmier/frameworks_native" path="frameworks/native" remote="github" revision="12.2" />
 
 </manifest>
