@@ -2,8 +2,8 @@
 <manifest>
 
 <!-- Device Trees -->
- <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="xd" />
- <project name="MhmmdAmier/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="12.1" />
+ <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="12L" />
+ <project name="MhmmdAmier/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="12L" />
 
 <!-- Vendor Trees -->
  <project name="mgs28-mh/vendor_xiaomi_ugg" path="vendor/xiaomi/ugg" remote="github" revision="12" />
