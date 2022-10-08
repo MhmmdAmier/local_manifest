@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<!-- Remotes -->
- <remote name="ArrowOS-Devices"
-         fetch="https://github.com/ArrowOS-Devices" />
-
 <!-- Device Trees -->
- <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="12L" />
- <project name="MhmmdAmier/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="12L" />
+ <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="13" />
+ <project name="MhmmdAmier/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="13" />
 
 <!-- Vendor Trees -->
- <project name="mgs28-mh/vendor_xiaomi_ugg" path="vendor/xiaomi/ugg" remote="github" revision="12" />
+ <project name="mgs28-mh/vendor_xiaomi_ugg" path="vendor/xiaomi/ugg" remote="github" revision="13" />
  <project name="mgs28-mh/vendor_xiaomi_ulysse-common" path="vendor/xiaomi/ulysse-common" remote="github" revision="12.1" />
   
 <!-- Kernels -->
@@ -19,6 +15,5 @@
 <!-- More Stuff -->
  <project name="Gabuters-Dev/vendor_xiaomi_dirac" path="vendor/xiaomi/part" remote="github" revision="12" />
  <project name="Gabuters-Dev/gabuters-clang" path="prebuilts/clang/host/linux-x86/gabuters-clang" remote="github" revision="master" />
- <project name="android_prebuilts_clang_host_linux-x86_clang-r416183b1" path="prebuilts/clang/host/linux-x86/clang-r416183b1" remote="ArrowOS-Devices" revision="arrow-11.0" />
 
 </manifest>
