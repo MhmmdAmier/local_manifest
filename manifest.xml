@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+<remote name="ImSurajxD" 
+        fetch="https://gitlab.com/ImSurajxD" />
+
 <!-- Device Trees -->
  <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="13" />
  <project name="MhmmdAmier/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="13" />
@@ -15,6 +18,6 @@
 <!-- More Stuff -->
  <project name="Gabuters-Dev/vendor_xiaomi_dirac" path="vendor/xiaomi/part" remote="github" revision="12" />
  <project name="Gabuters-Dev/gabuters-clang" path="prebuilts/clang/host/linux-x86/gabuters-clang" remote="github" revision="master" />
- <project name="ImSurajxD/clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" remote="github" revision="master" />
+ <project name="clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" remote="ImSurajxD" revision="master" />
 
 </manifest>
