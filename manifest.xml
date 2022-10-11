@@ -17,7 +17,6 @@
 
 <!-- More Stuff -->
  <project name="Gabuters-Dev/vendor_xiaomi_dirac" path="vendor/xiaomi/part" remote="github" revision="12" />
- <project name="Gabuters-Dev/gabuters-clang" path="prebuilts/clang/host/linux-x86/gabuters-clang" remote="github" revision="master" />
  <project name="clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" remote="ImSurajxD" revision="master" />
 
 </manifest>
