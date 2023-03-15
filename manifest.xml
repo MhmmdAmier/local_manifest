@@ -5,18 +5,17 @@
         fetch="https://gitlab.com/ImSurajxD" />
 
 <!-- Device Trees -->
- <project name="MhmmdAmier/device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="13" />
- <project name="MhmmdAmier/device_xiaomi_ulysse-common" path="device/xiaomi/ulysse-common" remote="github" revision="13" />
+ <project name="MhmmdAmier/android_device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="13" />
+ <project name="mgs28-mh/android_device_xiaomi_mithorium-common" path="device/xiaomi/mithorium-common" remote="github" revision="13" />
 
 <!-- Vendor Trees -->
- <project name="mgs28-mh/vendor_xiaomi_ugg" path="vendor/xiaomi/ugg" remote="github" revision="13" />
- <project name="mgs28-mh/vendor_xiaomi_ulysse-common" path="vendor/xiaomi/ulysse-common" remote="github" revision="12.1" />
+ <project name="mgs28-mh/proprietary_vendor_xiaomi_ulysse-2" path="vendor/xiaomi/ulysse" remote="github" revision="13" />
+ <project name="mgs28-mh/vendor_xiaomi_ulysse-common" path="vendor/xiaomi/ulysse-common" remote="github" revision="13" />
   
 <!-- Kernels -->
- <project name="MhmmdAmier/kernel_xiaomi_ulysse-4.9" path="kernel/xiaomi/ulysse" remote="github" revision="a12/temp" />
+ <project name="mgs28-mh/kernel_xiaomi_ulysse-4.9" path="kernel/xiaomi/ulysse" remote="github" revision="a12/temp" />
 
 <!-- More Stuff -->
- <project name="Gabuters-Dev/vendor_xiaomi_dirac" path="vendor/xiaomi/part" remote="github" revision="12" />
  <project name="clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" remote="ImSurajxD" revision="master" />
 
 </manifest>
